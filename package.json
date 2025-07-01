@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AntoineTorrezSuzano/gensokyo-realm-server/issues"
   },
-  "homepage": "https://github.com/AntoineTorrezSuzano/gensokyo-realm-server#readme"
+  "homepage": "https://github.com/AntoineTorrezSuzano/gensokyo-realm-server#readme",
+  "dependencies": {
+    "@bot-shiki/koishi-plugin-solitaire": "^0.1.4"
+  }
 }
